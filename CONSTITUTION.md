@@ -1,3 +1,8 @@
+---
+title: Clanker Constitution
+description: Default operating principles for coding agents covering user intent, judgment, verification, communication, and shared guidance.
+last_edited: 2026-08-11
+---
 <!-- Clanker Constitution v2026.08.11 | https://github.com/kenn-io/constitution -->
 # Clanker Constitution
 
